@@ -1,0 +1,16 @@
+{
+  "name": "bb8-streaming",
+  "version": "1.0.0",
+  "description": "bb8 driver for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jdmcgrew",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "noble": "^1.2.1",
+    "sphero": "^0.5.0"
+  }
+}
